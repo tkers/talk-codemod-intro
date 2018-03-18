@@ -6,5 +6,12 @@
   "repository": "https://github.com/Lapixx/talk-codemod-intro.git",
   "license": "MIT",
   "main": "index.js",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "cleaver index.md --output index.html",
+    "watch": "cleaver watch index.md --output index.html"
+  },
+  "dependencies": {
+    "cleaver": "^0.8.7"
+  }
 }
