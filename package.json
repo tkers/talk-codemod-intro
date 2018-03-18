@@ -1,0 +1,10 @@
+{
+  "name": "talk-codemod-intro",
+  "version": "0.0.1",
+  "description": "Introduction to codemods",
+  "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "repository": "https://github.com/Lapixx/talk-codemod-intro.git",
+  "license": "MIT",
+  "main": "index.js",
+  "private": true
+}
